@@ -1,0 +1,36 @@
+.navbar {
+    background-color: var(--color-primary-dark);
+    display: flex;
+    padding: 2px 20%;
+    justify-content: space-between;
+    z-index: 100;
+    position: sticky;
+    top: 0;
+}
+
+.nav-title {
+    margin-top: 2px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0px;
+}
+
+.navbar li {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 12px;
+    transition: all .2s ease-in-out;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    font-size: 14pt;
+}
+
+.navbar a:hover {
+    color: var(--color-secondary-light);
+}
