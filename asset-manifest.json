@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chow-cheap/static/css/main.ee1954cb.chunk.css",
+    "main.js": "/chow-cheap/static/js/main.781c339c.chunk.js",
+    "main.js.map": "/chow-cheap/static/js/main.781c339c.chunk.js.map",
+    "runtime-main.js": "/chow-cheap/static/js/runtime-main.0ce74dbd.js",
+    "runtime-main.js.map": "/chow-cheap/static/js/runtime-main.0ce74dbd.js.map",
+    "static/js/2.eaddea91.chunk.js": "/chow-cheap/static/js/2.eaddea91.chunk.js",
+    "static/js/2.eaddea91.chunk.js.map": "/chow-cheap/static/js/2.eaddea91.chunk.js.map",
+    "index.html": "/chow-cheap/index.html",
+    "precache-manifest.8014c3dbb5a689a74a87934ee7a32c5b.js": "/chow-cheap/precache-manifest.8014c3dbb5a689a74a87934ee7a32c5b.js",
+    "service-worker.js": "/chow-cheap/service-worker.js",
+    "static/css/main.ee1954cb.chunk.css.map": "/chow-cheap/static/css/main.ee1954cb.chunk.css.map",
+    "static/js/2.eaddea91.chunk.js.LICENSE.txt": "/chow-cheap/static/js/2.eaddea91.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/chow-cheap/static/media/logo.df41ad0f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce74dbd.js",
+    "static/js/2.eaddea91.chunk.js",
+    "static/css/main.ee1954cb.chunk.css",
+    "static/js/main.781c339c.chunk.js"
+  ]
+}
